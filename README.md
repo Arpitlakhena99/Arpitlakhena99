@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&lines=Hi+👋,+I'm+Arpit+Lakhena;Full+Stack+Java+Developer;Backend+%26+Cloud+Expert;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&lines=Hi+%F0%9F%91%8B,+I'm+Arpit+Lakhena;Full+Stack+Java+Developer;Backend+%26+Cloud+Expert;AI%2FML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -161,7 +161,7 @@
   <a href="https://twitter.com/arpit-lakhena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit-lakhena" height="40" width="50" /></a>
   <a href="https://linkedin.com/in/arpit-lakhena-bba5971a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-lakhena" height="40" width="50" /></a>
   <a href="https://www.hackerrank.com/@arpitlakhena144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arpitlakhena144" height="40" width="50" /></a>
-  <a href="mailto:arpitlakhena144@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-arpitlakhena144@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="40" /></a>
+  <a href="mailto:arpitlakhenaofficial@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-arpitlakhenaofficial@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="40" /></a>
 </div>
 
 <div align="center">
